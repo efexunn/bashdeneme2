@@ -14,3 +14,4 @@ var result = Obje.SumofNums(Obje.sayi1, Obje.sayi2);
 
 Console.WriteLine($"toplam = {result}");
 Console.WriteLine("pull request deneme");
+Console.WriteLine("pull request deneme22");
